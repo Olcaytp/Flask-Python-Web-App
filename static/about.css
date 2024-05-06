@@ -22,3 +22,8 @@ h2 {
 p {
     text-align: center;
 }
+.navbar-collapse{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}

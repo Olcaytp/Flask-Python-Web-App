@@ -39,3 +39,8 @@ input[type="submit"] {
 input[type="submit"]:hover {
     background-color: #45a049;
 }
+.navbar-collapse{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}

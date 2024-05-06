@@ -10,3 +10,8 @@ body {
     margin: auto auto;
     padding: 20px 20px;
 }
+.navbar-collapse{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
