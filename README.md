@@ -26,8 +26,6 @@ This project is licensed under the [MIT License](link-to-license).
 
 Feel free to customize and extend the project according to your needs!
 
-Feel free to customize and extend the project according to your needs!
-
 ## Screenshots
 ![Screenshot 1](https://github.com/Olcaytp/Flask-Python-Web-App/blob/main/assets/1.png)
 ![Screenshot 2](https://github.com/Olcaytp/Flask-Python-Web-App/blob/main/assets/2.png)
